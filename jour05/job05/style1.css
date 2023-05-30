@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 body {
     background: linear-gradient(to bottom, #f7d0eb, #ffffd6);
-    font-family: 'Rubik Puddles', cursive;
+    font-family: 'Press Start 2P', cursive;
 }
 
 form {
@@ -16,14 +16,15 @@ form {
 
 h1 {
     margin-top: 12%;
-    font-size: 80px;
+    font-size: 60px;
     text-align: center;
     color:aliceblue;
     text-transform: uppercase;
 }
 
 input[type="submit"] {
-    margin-left: 40%;
+    font-family: 'Press Start 2P', cursive;
+    margin-left: 34%;
     display: block;
     background-color: rgb(255, 203, 226);
     color: rgb(255, 255, 255);
@@ -33,9 +34,11 @@ input[type="submit"] {
 }
 
 select{
+    font-size: 10px;
+    font-family: 'Press Start 2P', cursive;;
     color: #f0acd4;
     border-radius: 5px;
-    margin-left: 42.5%;
+    margin-left: 39%;
     background-color: #feffe6;
 }
 
