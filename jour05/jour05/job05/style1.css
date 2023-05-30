@@ -33,7 +33,8 @@ input[type="submit"] {
 }
 
 select{
-    
+    color: #f0acd4;
+    border-radius: 5px;
     margin-left: 42.5%;
     background-color: #feffe6;
 }
